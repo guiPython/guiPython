@@ -10,8 +10,8 @@ Caso tenha interesse sobre minhas experiências profissionais deixo meu [📝cur
 
 ## 📊 Estatísticas & Tecnologias
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guiPython&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guiPython&theme=dark&hide_progress=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiPython&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guiPython&theme=dark&hide_progress=true"/>
 </div>
 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
