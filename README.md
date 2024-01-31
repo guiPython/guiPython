@@ -10,7 +10,7 @@ Caso tenha interesse sobre minhas experiências profissionais deixo meu [📝cur
 
 ## 📊 Estatísticas & Tecnologias
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiPython&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiPython&theme=dark&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guiPython&theme=dark&hide_progress=true"/>
 </div>
 
