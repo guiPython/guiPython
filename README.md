@@ -1,7 +1,7 @@
 # Olá!!! Sou o Guilherme 👋
 Sou programador desde 2019 e desenvolvo aplicações backend e frontend. Programo com linguagens como Python, NodeJs, C#, etc, atualmente meu interesse é programação backend para sistemas de alto desempenho e meus estudos são voltados a GoLang, gRPC e WebSockets, tambem curto bastante desenvolvimento type-safe então é comum eu dar uma olhada para Haskell e F# às vezes kkkkk.
 
-Caso tenha interesse sobre minhas experiências profissionais deixo meu [📝currículo](https://drive.google.com/file/d/15VI7hvW5CbpfeCPwiPLl52eHTe1OfcvR/view?usp=sharing).
+Caso tenha interesse sobre minhas experiências profissionais deixo meu [📝currículo](https://drive.google.com/file/d/1SX9RvwHz60xF6lLFlK9idH475MmjP-4l/view?usp=sharing).
 
 ## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-rocha-24bb24174)
