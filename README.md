@@ -19,4 +19,4 @@ While not an expert, I’m always exploring new ways to write clean, efficient c
 
 
 ## 🔥 Contributions
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=UFABC-Next-Realtime-Snapshot&repo=EnrollmentEventTransmitter&theme=dark)](https://github.com/UFABC-Next-Realtime-Snapshot/EnrollmentEventTransmitter)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=UFABC-Next-Realtime-Snapshot&repo=ufabc-enrollment-event-transmitter&theme=dark)](https://github.com/UFABC-Next-Realtime-Snapshot/ufabc-enrollment-event-transmitter)
